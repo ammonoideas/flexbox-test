@@ -1,0 +1,38 @@
+.wrapper {
+    display:flex;
+    margin: 10%;
+}
+
+.select {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 3;
+    padding: 10% 5% 10% 10%;
+    justify-content: center;
+    align-items: center;
+}
+
+.frame {
+    display: flex;
+    justify-content: center;
+    flex-grow: 7;
+    align-items: center;
+    padding: 10% 5% 10% 10%;
+}
+
+.framecontents {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.headerimg {
+    width: 100%;
+}
+
+iframe {
+    width: 100%;
+    height: 80%;
+}
